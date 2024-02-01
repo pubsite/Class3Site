@@ -1,0 +1,19 @@
+logo:
+  subtitle: 荣耀三班 绝非一般 励志笃行 敢为人先
+
+menubar:
+  columns: 3
+  items:
+    - id: post
+      title: 文章
+      url: /
+    - id: msg
+      title: 留言
+      url: /msg/
+    - id: about
+      title: 关于
+      url: /about/
+
+style:
+  sidebar:
+    background: "linear-gradient(60deg, #ced, #dca)"
