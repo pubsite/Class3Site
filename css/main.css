@@ -4264,7 +4264,7 @@ details.toc[open] >div.body section .header+.doc_tree {
 }
 .l_left {
   background-size: cover;
-  background-image: linear-gradient(60deg, #ced, #dca);
+  background-image: linear-gradient(120deg, #ca9, #eda);
 }
 .l_left .sidebar-container {
   height: 100%;
