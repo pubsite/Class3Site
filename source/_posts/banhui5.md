@@ -4,11 +4,11 @@ description: 感恩周主题班队会
 date: 2018-05-07
 ---
 
-[查看原文](https://mp.weixin.qq.com/s/g8I7qTwPl5FIqvlHSK5TOA)
-
-【原创】荣耀三班 见地争鸣 2018-05-08 12:24
-
-通讯员：王淼 刘子璐　　校对：严永平
+> 【原创】荣耀三班 见地争鸣 2018-05-08 12:24
+>
+> 通讯员：王淼 刘子璐　　校对：严永平
+>
+> （文中含有大量图片，建议[查看原文](https://mp.weixin.qq.com/s/g8I7qTwPl5FIqvlHSK5TOA)）
 
 感恩从心开始 让爱照亮彼此
 
