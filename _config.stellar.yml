@@ -11,6 +11,9 @@ menubar:
       title: 关于
       url: /about/
 
+article:
+  indent: true
+
 style:
   sidebar:
     background: "linear-gradient(60deg, #fdb, #da9)"

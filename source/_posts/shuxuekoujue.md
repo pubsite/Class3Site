@@ -1,6 +1,7 @@
 ---
 title: 数学期末必背
 description: 数学期末题解题口诀
+indent: false
 date: 2019-01-22
 ---
 
