@@ -1,7 +1,7 @@
 ---
 menu_id: about
 title: 关于
-indent: false
+type: tech
 breadcrumb: false
 ---
 

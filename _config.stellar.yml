@@ -12,8 +12,16 @@ menubar:
       url: /about/
 
 article:
-  indent: true
+  type: story
 
 style:
+  font-family:
+    logo: AlimamaDongFangDaKai
+    body: LXGW WenKai Screen
   sidebar:
     background: "linear-gradient(60deg, #fdb, #da9)"
+
+inject:
+  head:
+    - <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="/static/font.css">
