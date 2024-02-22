@@ -2,9 +2,12 @@
 title: 启航篇：知与行同在，为梦想扬帆，为生命奠基
 description: “鹭岛华侨情，美丽厦门行”研学活动
 date: 2017-07-20
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/cd0ecd6a96934027a272c9d9ba54c9a7.jpg
 ---
 
 [查看原文](https://www.meipian.cn/ogredc8)
+
+![](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/cd0ecd6a96934027a272c9d9ba54c9a7.jpg)
 
 小记者：2019届3班 张秦嘉　图片：严永平　审定：杨艳丽
 

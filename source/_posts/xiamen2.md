@@ -2,9 +2,12 @@
 title: 启航篇：览途中美景，谈青春感悟，壮奋斗豪情
 description: “鹭岛华侨情，美丽厦门行”研学活动
 date: 2017-07-20
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/545e8ee8a30049b4afad54a2ba766ea9.jpg
 ---
 
 [查看原文](https://www.meipian.cn/ogruql7)
+
+![](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/545e8ee8a30049b4afad54a2ba766ea9.jpg)
 
 小记者：2019届3班 辛思璐　图片：严永平　审定：杨艳丽
 

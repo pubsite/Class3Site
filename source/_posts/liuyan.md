@@ -1,7 +1,10 @@
 ---
-title: 留言
-description: 毕业后的一些留言
+title: 毕业留言
 date: 2019-07-22
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/9a6a8693828a45fcb25ab20110969d45.jpeg
+poster:
+  headline: 毕业留言
+  color: white
 ---
 
 > 基础不牢，地动山摇！

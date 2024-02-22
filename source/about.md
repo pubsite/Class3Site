@@ -5,6 +5,8 @@ type: tech
 breadcrumb: false
 ---
 
+![中考百日宣誓](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg)
+
 ## 班级风采
 
 当56个活力无限的少年选择追求卓越的时候，便把优秀当成了习惯。他们以荣耀之名，竖起理想风帆，诠释奋斗的青春最美丽；他们以勤奋为伴，以快乐为友，注重细节，精进不休；他们正在用最能演绎青春的方式描绘着自己的无悔选择。
@@ -26,15 +28,7 @@ breadcrumb: false
 
 荣耀三班 绝非一般 励志笃行 敢为人先
 
-## 班级全家福
-
-[凤翔研学](https://ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg)
-
-[中考百日宣誓](https://ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg)
-
-## 小组名单
-
-小组长及各学科长
+## 小组组长及各学科长
 
 |        |  组长  |  语文  |  数学  |  英语  |  物理  |  化学  |  政治  |  历史  |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -50,10 +44,10 @@ breadcrumb: false
 
 ## 其他
 
-宝鸡一中：http://www.bjyz.com.cn
+宝鸡市第一中学：http://www.bjyz.com.cn
 
 班主任严永平老师：微信公众号{% hashtag 见地争鸣:bjyz201903 %}和[美篇](https://www.meipian.cn/c/16033976)
 
-网站维护：纸鹿{% hashtag QQ:2399052066 %}
+网站维护：[纸鹿](https://zhilu.cyou) {% hashtag QQ:2399052066 %}
 
 感谢[野生技协](https://thisis.host/)为本站提供[域名](https://thisis.host/site)。

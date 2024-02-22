@@ -2,11 +2,14 @@
 title: 秋风凛冽心犹暖 再创佳绩奋明年
 description: 宝鸡一中第十三届田径运动会通讯稿
 date: 2018-10-19
+cover: https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/
 ---
 
-[查看原文](https://mp.weixin.qq.com/s/2hC-R6f2fqf1VFFppe4xpQ)
+[查看原文](https://mp.weixin.qq.com/s/2hC-R6f2fqf1VFFppe4xpQ
 
-供稿/`44号女生`      指导老师/`严老师`
+![](https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/)
+
+供稿/`44号女生`　指导老师/`严老师`
 
 秋风凛冽，挡不住那绿茵场上健儿们充满活力的身影，挡不住加油呐喊的声音，挡不住那团结一心的热情。今天是运动会的第3天，也是运动会的最后一天。在这短暂的一上午中，田赛径赛分头进行着。
 

@@ -2,11 +2,14 @@
 title: 秋风中开启新征程
 description: 记初三毕业生开学
 date: 2018-09-01
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/76ee56ffcb494b8e8932f07ec6004647.jpg
 ---
 
 > 通讯员：王淼
 >
 > （文中含有大量图片，建议[查看原文](https://www.meipian.cn/1kb9awvo)）
+
+![](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/76ee56ffcb494b8e8932f07ec6004647.jpg)
 
 由炎热的夏季匆匆离去，再到凉爽的秋日姗姗而来，在这季节的变化中，悄然包含了同学们身份的变化－－初三毕业生。真正的、悄无声息的初三拉锯战，由今天开启。
 

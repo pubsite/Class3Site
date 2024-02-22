@@ -2,6 +2,7 @@
 title: 感恩从心开始 让爱照亮彼此
 description: 感恩周主题班队会
 date: 2018-05-07
+cover: https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCIhWHyJibye4ibUwG9QyYJn57muKINX5xlDBxT2ib390znmldpxvia2HtkINMnpJbNZwPKwggwnGkXnRQ/
 ---
 
 > 【原创】荣耀三班 见地争鸣 2018-05-08 12:24
@@ -9,6 +10,8 @@ date: 2018-05-07
 > 通讯员：王淼 刘子璐　校对：严永平
 >
 > （文中含有大量图片，建议[查看原文](https://mp.weixin.qq.com/s/g8I7qTwPl5FIqvlHSK5TOA)）
+
+![](https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCIhWHyJibye4ibUwG9QyYJn57muKINX5xlDBxT2ib390znmldpxvia2HtkINMnpJbNZwPKwggwnGkXnRQ/)
 
 感恩从心开始 让爱照亮彼此
 

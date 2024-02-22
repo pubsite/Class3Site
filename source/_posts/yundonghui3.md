@@ -2,11 +2,14 @@
 title: 绿茵场上红旗扬 三班学子斗志昂
 description: 宝鸡一中第十三届田径运动会通讯稿
 date: 2018-10-18
+cover: https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNCWlyWicvK0m6QBibsW9Zu7WDpLXs2NKDicDUNzaJsXLjQicZf65gCvFVPA/640
 ---
 
 [查看原文](https://mp.weixin.qq.com/s/5XCry17248iWC5JbUGZQvg)
 
-供稿/`47号女生`  指导老师/`严老师`
+![](https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNCWlyWicvK0m6QBibsW9Zu7WDpLXs2NKDicDUNzaJsXLjQicZf65gCvFVPA/640)
+
+供稿/`47号女生`　指导老师/`严老师`
 
 第二天运动会在一片热烈的气氛中开始了。
 

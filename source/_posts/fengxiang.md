@@ -1,10 +1,17 @@
 ---
-title: '凤翔研学通讯稿合集'
+title: 凤翔研学通讯稿合集
 description: '2017年4月1日荣耀三班集体春游'
 date: 2017-04-01
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg
+poster:
+  headline: 凤翔研学通讯稿合集
+  caption: 2017年4月1日荣耀三班集体春游
+  color: white
 ---
 
 > 建议通过目录查阅。
+
+![](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg)
 
 ## 1号女生 凤翔之行
 

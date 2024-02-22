@@ -2,6 +2,7 @@
 title: 春风化雨常怀感恩之心 润物无声常为感恩之行
 description: “学会知恩感恩 让爱温暖彼此”主题班会
 date: 2019-05-06
+cover: https://wsrv.nl/?url=ss2.meipian.me/users/16033976/7bc1adbdd3ac46c9ae54498f30b42a2f.jpg
 ---
 
 > 内幕：
@@ -17,6 +18,9 @@ date: 2019-05-06
 > 发送邮箱：`89225****@qq.com`或微信。
 
 > （文中含有大量图片，建议[查看原文](https://www.meipian.cn/23edptic)）
+
+![](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/7bc1adbdd3ac46c9ae54498f30b42a2f.jpg)
+
 
 为了创新感恩活动形式，增强活动实效，凝聚各方力量，决战中考，根据学校安排和班级实际，特举行“学会知恩感恩 让爱温暖彼此”主题班会。
 
