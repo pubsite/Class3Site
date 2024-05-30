@@ -25,3 +25,4 @@ inject:
   head:
     - <link rel="stylesheet" href="//cdn.bootcdn.net/ajax/libs/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="/static/font.css">
+    - <link rel="stylesheet" href="//blog.zhilu.cyou/static/patch.css">

@@ -2,12 +2,12 @@
 title: 磨兵利剑硝烟前 披荆斩棘正当时
 description: 运动会动员大会
 date: 2018-10-16
-cover: https://wsrv.nl/?url=static2.ivwen.com/users/16033976/4c613cff29024a9e98809354386ac4f7.jpg
+cover: https://image.baidu.com/search/down?url=https://static2.ivwen.com/users/16033976/4c613cff29024a9e98809354386ac4f7.jpg
 ---
 
 [查看原文](https://www.meipian.cn/1o6k1jam)
 
-![](https://wsrv.nl/?url=static2.ivwen.com/users/16033976/4c613cff29024a9e98809354386ac4f7.jpg)
+![](https://image.baidu.com/search/down?url=https://static2.ivwen.com/users/16033976/4c613cff29024a9e98809354386ac4f7.jpg)
 
 供稿人/`5号女生`    指导老师/`严老师`
 

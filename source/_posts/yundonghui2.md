@@ -2,12 +2,12 @@
 title: 不负重托健体魄 奋战中考继辉煌
 description: 宝鸡一中第十三届田径运动会通讯稿
 date: 2018-10-17
-cover: https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJ3p3EtC9qRv35UDCSkFjxhq1fThnp4b2dlTK2ggYEKvtHibcRp9IoEHCmWKUQKf1hDuTVRO2EvO5A/
+cover: https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJ3p3EtC9qRv35UDCSkFjxhq1fThnp4b2dlTK2ggYEKvtHibcRp9IoEHCmWKUQKf1hDuTVRO2EvO5A/
 ---
 
 [查看原文](https://mp.weixin.qq.com/s/4sB0wfHD3Nz3aFiDY7XtaQ)
 
-![](https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJ3p3EtC9qRv35UDCSkFjxhq1fThnp4b2dlTK2ggYEKvtHibcRp9IoEHCmWKUQKf1hDuTVRO2EvO5A/)
+![](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJ3p3EtC9qRv35UDCSkFjxhq1fThnp4b2dlTK2ggYEKvtHibcRp9IoEHCmWKUQKf1hDuTVRO2EvO5A/)
 
 供稿/`38号男生`　摄影/`5号女生` `24号女生`　指导老师/`严老师`
 

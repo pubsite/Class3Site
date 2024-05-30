@@ -5,7 +5,7 @@ type: tech
 breadcrumb: false
 ---
 
-![中考百日宣誓](https://wsrv.nl/?url=ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg)
+![中考百日宣誓](https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg)
 
 ## 班级风采
 
@@ -46,8 +46,8 @@ breadcrumb: false
 
 宝鸡市第一中学：http://www.bjyz.com.cn
 
-班主任严永平老师：微信公众号{% hashtag 见地争鸣:bjyz201903 %}和[美篇](https://www.meipian.cn/c/16033976)
+班主任严永平老师：微信公众号 {% hashtag 见地争鸣:bjyz201903 %} 和 [美篇](https://www.meipian.cn/c/16033976)
 
 网站维护：[纸鹿](https://zhilu.cyou) {% hashtag QQ:2399052066 %}
 
-感谢[野生技协](https://thisis.host/)为本站提供[域名](https://thisis.host/site)。
+感谢 [野生技协](https://thisis.host/) 为本站提供 [域名](https://thisis.host/site)。

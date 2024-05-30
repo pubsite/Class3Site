@@ -2,12 +2,12 @@
 title: 秋风凛冽心犹暖 再创佳绩奋明年
 description: 宝鸡一中第十三届田径运动会通讯稿
 date: 2018-10-19
-cover: https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/
+cover: https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/
 ---
 
-[查看原文](https://mp.weixin.qq.com/s/2hC-R6f2fqf1VFFppe4xpQ
+[查看原文](https://mp.weixin.qq.com/s/2hC-R6f2fqf1VFFppe4xpQ)
 
-![](https://wsrv.nl/?url=mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/)
+![](https://image.baidu.com/search/down?url=https://mmbiz.qpic.cn/mmbiz_jpg/xl3JwT6CXCJOswwbVM3BjCt5cshvWoZNa1tSlmE4930yHqehVougbEwb3jzpKAQ6cicb6RcPiaMWLS40A92s29pg/)
 
 供稿/`44号女生`　指导老师/`严老师`
 
