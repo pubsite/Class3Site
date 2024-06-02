@@ -2,14 +2,17 @@ logo:
   subtitle: 荣耀三班 绝非一般 励志笃行 敢为人先|九年今朝少年狂 艳压群芳绽陈仓
 
 menubar:
-  columns: 2
+  columns: 3
   items:
     - id: post
       title: 文章
       url: /
+    - id: maintain
+      title: 维护
+      url: /maintain
     - id: about
       title: 关于
-      url: /about/
+      url: /about
 
 article:
   type: story
