@@ -1,6 +1,7 @@
 ---
 title: 数学期末必背
 date: 2019-01-22
+updated: 2019-01-22
 ---
 
 {% poetry 数学期末题解题口诀 author:数学赵老师 footer:初三第一学期 %}

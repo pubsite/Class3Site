@@ -2,7 +2,9 @@
 title: 凤翔研学通讯稿合集
 description: '2017年4月1日荣耀三班集体春游'
 date: 2017-04-01
+updated: 2017-04-01
 cover: https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg
+banner: https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg
 poster:
   headline: 凤翔研学通讯稿合集
   caption: 2017年4月1日荣耀三班集体春游
@@ -10,8 +12,6 @@ poster:
 ---
 
 > 建议通过目录查阅。
-
-![](https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/9dadd66a24084732a4d485844602233c.jpg)
 
 ## 1号女生 凤翔之行
 

@@ -1,11 +1,12 @@
 ---
 menu_id: about
 title: 关于
+banner: https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg
 type: tech
 breadcrumb: false
 ---
 
-![中考百日宣誓](https://image.baidu.com/search/down?url=https://ss2.meipian.me/users/16033976/e8fe6a4e778f4033b9a5b15a10743dff.jpg)
+<style>.article.banner .bg+.content{aspect-ratio:2}</style>
 
 ## 班级风采
 
