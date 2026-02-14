@@ -7,13 +7,15 @@ breadcrumb: false
 
 ## 联系信息
 
-网站维护：[纸鹿](https://zhilu.cyou) {% hashtag QQ:2399052066 %}
+网站维护：[纸鹿](https://www.zhilu.site/) {% hashtag QQ:2399052066 %}
 
-域名：感谢 [野生技协](https://thisis.host/) 为本站提供 [域名](https://thisis.host/site)。
+域名：感谢 [野生技协](https://www.thisis.host/) 为本站提供 [域名](https://www.thisis.host/site)。
 
 ## 维护记录
 
 {% timeline %}
+<!-- node 2026-02-14 -->
+更换部分资源和依赖
 <!-- node 2024-08-01 -->
 更换字体 CDN 防止供应链攻击
 更新主题，目前为云端构建

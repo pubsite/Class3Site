@@ -26,6 +26,6 @@ style:
 
 inject:
   head:
-    - <link rel="stylesheet" href="https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont/style.min.css" media="none" onload="this.media='all'">
+    - <link rel="stylesheet" href="https://lib.baomitu.com/lxgw-wenkai-screen-webfont/1.7.0/style.min.css" media="none" onload="this.media='all'">
     - <link rel="stylesheet" href="/static/font.css">
-    - <link rel="stylesheet" href="//thisis.host/static/patch.css">
+    - <link rel="stylesheet" href="https://thisis.host/static/patch.css">
